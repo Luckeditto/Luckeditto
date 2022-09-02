@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Cursando Ciência da Computação
+- 🔭 Cursando Engenharia de Software
 - 🌱 Estudando JavaScript
 - 📫 Entre em contato comigo pelo email: lucasclub69@gmail.com
 - 😄 Pronomes: Ele/Dele 

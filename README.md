@@ -4,11 +4,11 @@
 
 
 
-- 🔭 Cursando Engenharia de Software
+- 🔭 Graduando em Engenharia de Software
 - 🌱 Estudando Java
 - 📫 Entre em contato comigo pelo email: lucasclub69@gmail.com
 - 😄 Pronomes: Ele/Dele 
-- ⚡ Curiosidade: Sou viciado em séries investigativas/policiais com pegada Criminal Minds
+
 
 
  <a href="https://github.com/Luckeditto">

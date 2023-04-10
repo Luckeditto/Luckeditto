@@ -5,7 +5,6 @@
 
 
 - 🔭 Graduando em Engenharia de Software
-- 🌱 Estudando Java
 - 📫 Entre em contato comigo pelo email: lucasclub69@gmail.com
 - 😄 Pronomes: Ele/Dele 
 

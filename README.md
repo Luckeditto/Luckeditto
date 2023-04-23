@@ -6,7 +6,7 @@
 
 - 🔭 Graduando em Engenharia de Software
 - 📫 Entre em contato comigo pelo email: luckeddev@gmail.com
-- 😄 Pronomes: Ele/Dele 
+
 
 
 

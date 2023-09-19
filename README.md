@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Graduando em Engenharia de Software
+- 🔭 Backend Developer
 - 📫 Entre em contato comigo pelo email: luckeddev@gmail.com
 
 <br>

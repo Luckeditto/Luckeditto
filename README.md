@@ -7,6 +7,13 @@ At the moment using this github for school activities and more, but feel free to
 
 <br>
 <br>
+ <a href="https://github.com/Luckeditto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckeditto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckeditto&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
+<div style="display: inline_block"><br>
 
 
 

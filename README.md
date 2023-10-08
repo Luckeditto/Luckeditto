@@ -2,7 +2,7 @@
 
 At the moment using this github for school activities and more, but feel free to browse!
 
-- 🔭 Backend Developer
+- 🔭 Leaning towards backend developing
 - 📫 Get in touch with me through my professional email: luckeddev@gmail.com
 
 <br>

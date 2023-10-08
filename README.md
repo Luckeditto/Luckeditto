@@ -1,11 +1,9 @@
-### Olá! Eu sou  o Lucas Araújo 👋
+### Hi! I'm Lucas Araújo, welcome to my github👋
 
-
-
-
+At the moment using this github as a repository for school activities and more, but feel free to browse!
 
 - 🔭 Backend Developer
-- 📫 Entre em contato comigo pelo email: luckeddev@gmail.com
+- 📫 Get in touch with me through my professional email: luckeddev@gmail.com
 
 <br>
 <br>

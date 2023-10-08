@@ -1,6 +1,6 @@
 ### Hi! I'm Lucas Araújo, welcome to my github👋
 
-At the moment using this github as a repository for school activities and more, but feel free to browse!
+At the moment using this github for school activities and more, but feel free to browse!
 
 - 🔭 Backend Developer
 - 📫 Get in touch with me through my professional email: luckeddev@gmail.com

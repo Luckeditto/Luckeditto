@@ -4,11 +4,6 @@ At the moment using this github for school activities and personal projects, but
 
 - 🔭 Leaning towards backend developing
 - 📫 Get in touch with me through my professional email: luckeddev@gmail.com
-
-<br>
-<br>
- <a href="https://github.com/Luckeditto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luckeditto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckeditto&layout=compact&langs_count=7&theme=dracula"/>
 

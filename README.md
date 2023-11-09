@@ -2,7 +2,7 @@
 
 At the moment using this github for school activities and personal projects, but feel free to browse!
 
-- 🔭 Leaning towards backend developing
+- 🔭 Passionate about backend developing
 - 📫 Get in touch with me through my professional email: luckeddev@gmail.com
  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckeditto&layout=compact&langs_count=7&theme=dracula"/>

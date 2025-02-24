@@ -1,6 +1,6 @@
 ### Hi! I'm Lucas Araújo, welcome to my github👋
 
-At the moment using this github for school activities and personal projects, but feel free to browse!
+At the moment using this github for college activities and personal projects, but feel free to browse!
 
 - 🔭 Passionate about backend developing
 - 📫 Get in touch with me through my professional email: lucasaraujorelin@gmail.com
